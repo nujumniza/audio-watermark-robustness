@@ -1,0 +1,10 @@
+audioseal==0.2.0
+torch
+torchaudio
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+soundfile
+tabulate
